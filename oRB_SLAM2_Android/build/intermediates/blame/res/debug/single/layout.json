@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dataset_orb.xml",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\layout\\activity_dataset_orb.xml"
+    },
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\layout\\filechooser_gridview_item.xml",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\layout\\filechooser_gridview_item.xml"
+    },
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dataset_mode.xml",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\layout\\activity_dataset_mode.xml"
+    },
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera_orb.xml",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\layout\\activity_camera_orb.xml"
+    },
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera_mode.xml",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\layout\\activity_camera_mode.xml"
+    },
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\layout\\filechooser_show.xml",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\layout\\filechooser_show.xml"
+    },
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\layout\\choose_dialog.xml",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\layout\\choose_dialog.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_folder.png",
+        "source": "C:\\ORB_SLAM2_Android_Import\\oRB_SLAM2_Android\\src\\main\\res\\drawable-hdpi\\ic_folder.png"
+    }
+]
